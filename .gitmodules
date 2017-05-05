@@ -1,0 +1,4 @@
+[submodule "lutece-build-plugin-testci"]
+	path = lutece-build-plugin-testci
+	url = https://github.com/lutece-platform/lutece-build-plugin-testci
+	branch = develop
